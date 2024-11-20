@@ -2,6 +2,10 @@
 
 A fully functional real-time chat application built with the MERN stack, enhanced by Socket.io for live messaging and JWT for secure authentication. This project demonstrates expertise in both frontend and backend technologies, and is designed to be scalable, efficient, and user-friendly.
 
+## 🎉 Live Demo
+
+Check out the live applications:
+- Real-time Chat App: https://realtime-chat-app-xypc.onrender.com
 
 🌌 Screenshots
 
